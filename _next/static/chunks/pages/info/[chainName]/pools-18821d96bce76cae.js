@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3225],{92201:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/info/[chainName]/pools",function(){return t(57973)}])},57973:function(n,u,t){"use strict";t.r(u);var i=t(52322),o=t(69724),_=t(99180),c=function(){return(0,i.jsx)(o.Z,{})};c.Layout=_.O,c.chains=[],u.default=c}},function(n){n.O(0,[1246,6401,7619,9657,9774,2888,179],function(){return n(n.s=92201)}),_N_E=n.O()}]);
+//# sourceMappingURL=pools-18821d96bce76cae.js.map

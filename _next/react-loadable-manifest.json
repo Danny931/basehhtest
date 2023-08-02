@@ -1,0 +1,125 @@
+{
+  "../../../../node_modules/@wagmi/core/connectors/coinbaseWallet/dist/wagmi-core-connectors-coinbaseWallet.esm.js -> @coinbase/wallet-sdk": {
+    "id": 16221,
+    "files": [
+      "static/chunks/8834-3fe8e38cfe8928c3.js",
+      "static/chunks/6221.3116c5b80d58f401.js",
+      "static/chunks/7216.06cbb1241b65a634.js"
+    ]
+  },
+  "../../../../node_modules/@wagmi/core/connectors/walletConnect/dist/wagmi-core-connectors-walletConnect.esm.js -> @walletconnect/ethereum-provider": {
+    "id": 16566,
+    "files": [
+      "static/chunks/8834-3fe8e38cfe8928c3.js",
+      "static/chunks/6566.49bc5423dedbf866.js",
+      "static/chunks/314.36c570b1092d8e59.js"
+    ]
+  },
+  "../../../../packages/token-lists/src/useFetchListCallback.ts -> ./getTokenList": {
+    "id": 30456,
+    "files": [
+      "static/chunks/2108.c2a1955b75883317.js",
+      "static/chunks/456.c4e54a8b27af88a2.js"
+    ]
+  },
+  "../../../../packages/ui-wallets/src/WalletModal.tsx -> ./components/QRCode": {
+    "id": 87119,
+    "files": [
+      "static/chunks/7119.a395fc6a8fc1b2a2.js"
+    ]
+  },
+  "../components/EasterEgg/EasterEgg.tsx -> @pancakeswap/uikit": {
+    "id": 3393,
+    "files": [
+      "static/chunks/3880-35e2d84917c52e21.js",
+      "static/chunks/2969-38020602014c3f14.js",
+      "static/chunks/3763-68909bc6b5eb3df6.js",
+      "static/chunks/2710-38eaf7d89d833e66.js",
+      "static/chunks/8934-c637ea3c3a602b86.js",
+      "static/chunks/7294-739b5b7b038e97a8.js",
+      "static/chunks/2776-1ce22a513c15e8eb.js",
+      "static/chunks/5289-f852853ba438cf33.js",
+      "static/chunks/2591-6f419b8d9ff1642c.js",
+      "static/chunks/6970-6af8abee253f9b61.js",
+      "static/chunks/6036-e33871cde8bc7f9f.js",
+      "static/css/944b73eee4cdedcb.css",
+      "static/chunks/5236.8a48ac067e8a5ba7.js"
+    ]
+  },
+  "../components/SubgraphHealthIndicator/FixedSubgraphHealthIndicator.tsx -> components/SubgraphHealthIndicator": {
+    "id": 44980,
+    "files": [
+      "static/chunks/4980.12a37a6e27f1e627.js"
+    ]
+  },
+  "../views/Info/components/InfoCharts/ChartCard/index.tsx -> ../CandleChart": {
+    "id": 12533,
+    "files": [
+      "static/chunks/8417-3e73c3aecec82681.js",
+      "static/chunks/167.692d287fbcec7132.js",
+      "static/chunks/2533.2059ce0775e13c6b.js"
+    ]
+  },
+  "../views/Nft/market/Collection/index.tsx -> ./Activity": {
+    "id": 12920,
+    "files": [
+      "static/chunks/3889-02c8b5679ec2415a.js",
+      "static/chunks/8527-eda61ebfe1316d88.js",
+      "static/chunks/334.85a2d8857ce720d2.js"
+    ]
+  },
+  "../views/Nft/market/Collection/index.tsx -> ./Traits": {
+    "id": 96598,
+    "files": [
+      "static/chunks/6598.2ab67332242692f0.js"
+    ]
+  },
+  "../views/Pools/components/LockedPool/Common/LockedModalBody.tsx -> ./ExtendEnable": {
+    "id": 43346,
+    "files": [
+      "static/chunks/7553-35f0eaeda3743519.js",
+      "static/chunks/3346.9fb6fa067d441fd5.js"
+    ]
+  },
+  "../views/Predictions/Desktop.tsx -> ./components/ChainlinkChart": {
+    "id": 81583,
+    "files": [
+      "static/chunks/1246-c4cd943d536e90d1.js",
+      "static/chunks/3537-53586d6ebc358c77.js",
+      "static/chunks/9914-6dbe62c747665650.js",
+      "static/chunks/1583.196f882f66490771.js"
+    ]
+  },
+  "../views/Predictions/MobileChart.tsx -> ./components/ChainlinkChart": {
+    "id": 81583,
+    "files": [
+      "static/chunks/1246-c4cd943d536e90d1.js",
+      "static/chunks/3537-53586d6ebc358c77.js",
+      "static/chunks/9914-6dbe62c747665650.js",
+      "static/chunks/1583.196f882f66490771.js"
+    ]
+  },
+  "../views/Swap/components/Chart/BasicChart.tsx -> ./SwapLineChart": {
+    "id": 70189,
+    "files": [
+      "static/chunks/3537-53586d6ebc358c77.js",
+      "static/chunks/9914-6dbe62c747665650.js",
+      "static/chunks/9812.71c4901f849be289.js"
+    ]
+  },
+  "../views/Voting/CreateProposal/index.tsx -> components/EasyMde": {
+    "id": 38623,
+    "files": [
+      "static/chunks/9c0540d4.bf89f51237e39e1c.js",
+      "static/chunks/1348.522e7f6af38c58a6.js",
+      "static/css/3de02a527d582311.css",
+      "static/chunks/4432.a8c9f4c0bd1cdb6c.js"
+    ]
+  },
+  "_app.tsx -> components/EasterEgg": {
+    "id": 78235,
+    "files": [
+      "static/chunks/8235.071a815a2e1919d3.js"
+    ]
+  }
+}

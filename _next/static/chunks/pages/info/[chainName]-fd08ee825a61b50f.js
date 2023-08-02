@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9483],{80214:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/info/[chainName]",function(){return t(97391)}])},97391:function(n,u,t){"use strict";t.r(u);var i=t(52322),_=t(99180),c=t(37446),e=function(){return(0,i.jsx)(c.Z,{})};e.Layout=_.O,e.chains=[],u.default=e}},function(n){n.O(0,[1246,5867,3537,346,6401,7619,9914,1493,7446,9774,2888,179],function(){return n(n.s=80214)}),_N_E=n.O()}]);
+//# sourceMappingURL=[chainName]-fd08ee825a61b50f.js.map
